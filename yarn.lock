@@ -2013,12 +2013,13 @@ auth0@^2.17.0, auth0@^2.23.0:
     rest-facade "^1.13.0"
     retry "^0.12.0"
 
-auth0@^4.3.1:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/auth0/-/auth0-4.4.0.tgz#d57b555ec4ea8037816438799b09c0e6f0356644"
-  integrity sha512-umlAogwQDUYvL1Pd4RnViyps7lkvntZ3+VVDW+/4ML7/GzkJcq6VGJ20Nb60eYosQkxa7up1n9lrA4Of+BZsUg==
+auth0@^4.13.0:
+  version "4.14.0"
+  resolved "https://registry.yarnpkg.com/auth0/-/auth0-4.14.0.tgz#1066b5c7546f00eb00aebbbff25ceb090bd569fd"
+  integrity sha512-SJRw0wgjAR9I4MTtU0GsjIw9daYI5XB98BlVf6bn2WJ+X1TqN6tnuuDzz+aQd3lEzAb5B9MEkIJSiirTGo7pPQ==
   dependencies:
     jose "^4.13.2"
+    undici-types "^6.15.0"
     uuid "^9.0.0"
 
 aws-sign2@~0.7.0:
@@ -11549,6 +11550,11 @@ undertaker@^1.2.1:
     object.defaults "^1.0.0"
     object.reduce "^1.0.0"
     undertaker-registry "^1.0.0"
+
+undici-types@^6.15.0:
+  version "6.21.0"
+  resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-6.21.0.tgz#691d00af3909be93a7faa13be61b3a5b50ef12cb"
+  integrity sha512-iwDZqg0QAGrg9Rav5H4n0M64c3mkR59cJ6wQp+7C4nI0gsmExaedaYLNO44eT4AtBBwjbTiGPMlt2Md0T9H9JQ==
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
