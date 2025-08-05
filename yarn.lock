@@ -2013,10 +2013,10 @@ auth0@^2.17.0, auth0@^2.23.0:
     rest-facade "^1.13.0"
     retry "^0.12.0"
 
-auth0@^4.13.0:
-  version "4.14.0"
-  resolved "https://registry.yarnpkg.com/auth0/-/auth0-4.14.0.tgz#1066b5c7546f00eb00aebbbff25ceb090bd569fd"
-  integrity sha512-SJRw0wgjAR9I4MTtU0GsjIw9daYI5XB98BlVf6bn2WJ+X1TqN6tnuuDzz+aQd3lEzAb5B9MEkIJSiirTGo7pPQ==
+auth0@^4.27.0:
+  version "4.28.0"
+  resolved "https://registry.yarnpkg.com/auth0/-/auth0-4.28.0.tgz#0998af3eec75b1b43b2ddf5a5db0faf028d40a22"
+  integrity sha512-fBtJnZ+G/W53pkbkwMrPlfaJPLAD/wwDaNnUqta8sY+sgIxbQdTfkiaHc5FcRNtaX96M7cQBX9KEgKixF5XKlA==
   dependencies:
     jose "^4.13.2"
     undici-types "^6.15.0"
